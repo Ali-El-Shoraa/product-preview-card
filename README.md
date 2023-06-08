@@ -1,6 +1,7 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+#Demo
+live at https://ali-el-shoraa.github.io/product-preview-card/
 
 ## Welcome! 👋
 
