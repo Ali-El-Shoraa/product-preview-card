@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-#Demo
+# Demo
 live at https://ali-el-shoraa.github.io/product-preview-card/
 
 ## Welcome! 👋
